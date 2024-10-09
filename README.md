@@ -1,79 +1,83 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# Fitness Log Mobile Application
 
-# Getting Started
+## Introduction
+The Fitness Log Application is a mobile app designed to help users track their daily nutritional intake and workout routines. It is built using JavaScript for both front-end and back-end development with React Native, Redux Toolkit, Firebase, and other libraries. Users can set dietary goals, log food and exercise data, and monitor progress through visual charts and a calendar.
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+## Installation & Setup
 
-## Step 1: Start the Metro Server
+### Installing the App
+1. **Google Play Store**: The app can be installed directly from the Google Play Store (if available).
+2. **Manual Setup**: If the app is not on the store, follow these steps:
+   - Download JavaScript, React Native, and Android Studio.
+   - Set up the environment as per the official [React Native documentation](https://reactnative.dev/docs/set-up-your-environment?platform=android&os=windows).
+   - Clone the project from [GitHub](https://github.com/sikndrR).
+   - Install the required packages:
+     ```bash
+     npm install --force
+     ```
+   - Run the app:
+     ```bash
+     npx react-native run-android
+     ```
+   - Set up Firebase and FoodData Central API keys as needed.
 
-First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
+### System Requirements
+- **PC Requirements**: 2.10 GHz CPU, 6 cores, 8 GB RAM, 3 GB storage.
+- **Mobile Device**: Supports devices newer than iPhone 5.
 
-To start Metro, run the following command from the _root_ of your React Native project:
+## User Manual
 
-```bash
-# using npm
-npm start
+### Sign-Up and Login
+1. **Sign-Up**: Create a new account by entering your first and last name, a valid email, and a password (minimum 9 characters).
+2. **Login**: Use your email and password to log in. Password recovery options are available.
 
-# OR using Yarn
-yarn start
-```
+### Food Log
+- View daily goals with visual pie charts for calories, protein, fats, and carbs.
+- Add food entries manually or search using the USDA FoodData Central API.
+- Update or delete food log entries as needed.
 
-## Step 2: Start your Application
+### Workout Logging
+- Log exercises with details on sets, reps, and weights.
+- Review past workouts via the calendar.
 
-Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
+### Profile and Settings
+- Update personal goals from the Profile screen.
+- Changes require all input fields to be filled.
 
-### For Android
+## Design
 
-```bash
-# using npm
-npm run android
+### Technology Stack
+- **Backend**:
+  - **Application Logic**: Node.js, USDA FoodData API.
+  - **Database**: Firebase Authentication and Realtime Database.
+- **Frontend**:
+  - **Framework**: React Native.
+  - **Libraries**: Redux Toolkit, Font Awesome, React Navigation, SVG, Device Info.
 
-# OR using Yarn
-yarn android
-```
+### Architecture
+1. **Backend**:
+   - Firebase Authentication for user management.
+   - Realtime Database for logging food and exercise data.
+2. **Frontend**:
+   - Responsive UI using React Native and custom components.
+   - State management with Redux.
 
-### For iOS
+### File Structure
+- **Screens**: Main app pages (Food Log, Weights, Profile, etc.).
+- **Components**: Reusable UI elements.
+- **Navigation**: Manages app routing and screen transitions.
+- **API**: Interactions with Firebase and USDA FoodData.
 
-```bash
-# using npm
-npm run ios
+## Testing & Results
+- Manual testing was performed; no automated test cases were created.
+- Functionalities like logging dietary goals and exercises were verified through user testing.
 
-# OR using Yarn
-yarn ios
-```
+## Summary
+The project was a valuable learning experience, providing insight into front-end and back-end development using modern tools. The app incorporates key features such as Firebase integration, API usage, and responsive design.
 
-If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
-
-This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
-
-## Step 3: Modifying your App
-
-Now that you have successfully run the app, let's modify it.
-
-1. Open `App.tsx` in your text editor of choice and edit some lines.
-2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
-
-   For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
-
-## Congratulations! :tada:
-
-You've successfully run and modified your React Native App. :partying_face:
-
-### Now what?
-
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
-
-# Troubleshooting
-
-If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-
-# Learn More
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+## Bibliography
+- [FoodData Central API Guide](https://fdc.nal.usda.gov/api-guide.html#bkmk-1)
+- [React Native Setup Guide](https://reactnative.dev/docs/set-up-your-environment?platform=android&os=windows)
+- [Firebase Realtime Database Documentation](https://rnfirebase.io/database/usage)
+- [Font Awesome in React Native](https://docs.fontawesome.com/web/use-with/react-native)
+- [React Navigation Setup](https://reactnavigation.org/docs/getting-started/)
