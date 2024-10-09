@@ -32,8 +32,8 @@ The Fitness Log Application is a mobile app designed to help users track their d
 2. **Login**: Use your email and password to log in. Password recovery options are available.
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/user-attachments/assets/c5c1db48-5700-401f-a54e-caa0b3ebccc3" alt="Sign-Up" style="width: 20%;"/>
-    <img src="https://github.com/user-attachments/assets/cfc8df8e-2803-4c80-acc9-3ff124007184" alt="Login" style="width: 20%;"/>
+    <img src="https://github.com/user-attachments/assets/c5c1db48-5700-401f-a54e-caa0b3ebccc3" alt="Sign-Up" style="width: 25%;"/>
+    <img src="https://github.com/user-attachments/assets/cfc8df8e-2803-4c80-acc9-3ff124007184" alt="Login" style="width: 25%;"/>
 </div>
 
 ### Food Log
@@ -42,9 +42,9 @@ The Fitness Log Application is a mobile app designed to help users track their d
 - Update or delete food log entries as needed.
 
 <div style="display: flex; justify-content: space-between;">
-   <img src="https://github.com/user-attachments/assets/109c66d2-a412-4d80-a7cf-0e46893a388f" alt="Screenshot 1" style="width: 20%;"/>
-   <img src="https://github.com/user-attachments/assets/b4b7d61a-905f-4b48-a06b-34a54ff52bae" alt="Screenshot 2" style="width: 20%;"/>
-   <img src="https://github.com/user-attachments/assets/924b4373-3ed4-4058-832a-7d75c6781b1f" alt="Screenshot 3" style="width: 20%;"/>
+   <img src="https://github.com/user-attachments/assets/109c66d2-a412-4d80-a7cf-0e46893a388f" alt="Screenshot 1" style="width: 25%;"/>
+   <img src="https://github.com/user-attachments/assets/b4b7d61a-905f-4b48-a06b-34a54ff52bae" alt="Screenshot 2" style="width: 25%;"/>
+   <img src="https://github.com/user-attachments/assets/924b4373-3ed4-4058-832a-7d75c6781b1f" alt="Screenshot 3" style="width: 25%;"/>
 </div>
 
 ### Workout Logging
@@ -52,9 +52,9 @@ The Fitness Log Application is a mobile app designed to help users track their d
 - Review past workouts via the calendar.
 
 <div style="display: flex; justify-content: space-between;">
-   <img src="https://github.com/user-attachments/assets/140f461e-2a36-4461-a1b1-612d31eafb51" alt="Screenshot 1" style="width: 20%;"/>
-   <img src="https://github.com/user-attachments/assets/a9f3f864-de25-4007-9857-b7c44ccf792c" alt="Screenshot 2" style="width: 20%;"/>
-   <img src="https://github.com/user-attachments/assets/2bd63c07-5beb-4f9d-aca7-bff051a4d082" alt="Screenshot 3" style="width: 20%;"/>
+   <img src="https://github.com/user-attachments/assets/140f461e-2a36-4461-a1b1-612d31eafb51" alt="Screenshot 1" style="width: 25%;"/>
+   <img src="https://github.com/user-attachments/assets/a9f3f864-de25-4007-9857-b7c44ccf792c" alt="Screenshot 2" style="width: 25%;"/>
+   <img src="https://github.com/user-attachments/assets/2bd63c07-5beb-4f9d-aca7-bff051a4d082" alt="Screenshot 3" style="width: 25%;"/>
 </div>
 
 ### Profile and Settings
@@ -62,7 +62,7 @@ The Fitness Log Application is a mobile app designed to help users track their d
 - Changes require all input fields to be filled.
 
 <div style="display: flex; justify-content: center;">
-   <img src="https://github.com/user-attachments/assets/5db019c9-bfec-4a97-96da-ea15d5d733ed" alt="Screenshot" style="width: 20%;"/>
+   <img src="https://github.com/user-attachments/assets/5db019c9-bfec-4a97-96da-ea15d5d733ed" alt="Screenshot" style="width: 25%;"/>
 </div>
 
 
