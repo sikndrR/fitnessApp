@@ -30,6 +30,9 @@ The Fitness Log Application is a mobile app designed to help users track their d
 ### Sign-Up and Login
 1. **Sign-Up**: Create a new account by entering your first and last name, a valid email, and a password (minimum 9 characters).
 2. **Login**: Use your email and password to log in. Password recovery options are available.
+![image](https://github.com/user-attachments/assets/c5c1db48-5700-401f-a54e-caa0b3ebccc3)
+![image](https://github.com/user-attachments/assets/cfc8df8e-2803-4c80-acc9-3ff124007184)
+
 
 ### Food Log
 - View daily goals with visual pie charts for calories, protein, fats, and carbs.
