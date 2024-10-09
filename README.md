@@ -61,6 +61,11 @@ The Fitness Log Application is a mobile app designed to help users track their d
 - Update personal goals from the Profile screen.
 - Changes require all input fields to be filled.
 
+<div style="display: flex; justify-content: center;">
+   <img src="https://github.com/user-attachments/assets/5db019c9-bfec-4a97-96da-ea15d5d733ed" alt="Screenshot" style="width: 30%;"/>
+</div>
+
+
 ## Design
 
 ### Technology Stack
