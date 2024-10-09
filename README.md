@@ -42,9 +42,9 @@ The Fitness Log Application is a mobile app designed to help users track their d
 - Update or delete food log entries as needed.
 
 <div style="display: flex; justify-content: space-between;">
-   <img src="https://github.com/user-attachments/assets/109c66d2-a412-4d80-a7cf-0e46893a388f" alt="Screenshot 1" style="width: 30%;"/>
-   <img src="https://github.com/user-attachments/assets/b4b7d61a-905f-4b48-a06b-34a54ff52bae" alt="Screenshot 2" style="width: 30%;"/>
-   <img src="https://github.com/user-attachments/assets/924b4373-3ed4-4058-832a-7d75c6781b1f" alt="Screenshot 3" style="width: 30%;"/>
+   <img src="https://github.com/user-attachments/assets/109c66d2-a412-4d80-a7cf-0e46893a388f" alt="Screenshot 1" style="width: 20%;"/>
+   <img src="https://github.com/user-attachments/assets/b4b7d61a-905f-4b48-a06b-34a54ff52bae" alt="Screenshot 2" style="width: 20%;"/>
+   <img src="https://github.com/user-attachments/assets/924b4373-3ed4-4058-832a-7d75c6781b1f" alt="Screenshot 3" style="width: 20%;"/>
 </div>
 
 ### Workout Logging
