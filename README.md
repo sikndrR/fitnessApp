@@ -52,9 +52,9 @@ The Fitness Log Application is a mobile app designed to help users track their d
 - Review past workouts via the calendar.
 
 <div style="display: flex; justify-content: space-between;">
-   <img src="https://github.com/user-attachments/assets/140f461e-2a36-4461-a1b1-612d31eafb51" alt="Screenshot 1" style="width: 30%;"/>
-   <img src="https://github.com/user-attachments/assets/a9f3f864-de25-4007-9857-b7c44ccf792c" alt="Screenshot 2" style="width: 30%;"/>
-   <img src="https://github.com/user-attachments/assets/2bd63c07-5beb-4f9d-aca7-bff051a4d082" alt="Screenshot 3" style="width: 30%;"/>
+   <img src="https://github.com/user-attachments/assets/140f461e-2a36-4461-a1b1-612d31eafb51" alt="Screenshot 1" style="width: 20%;"/>
+   <img src="https://github.com/user-attachments/assets/a9f3f864-de25-4007-9857-b7c44ccf792c" alt="Screenshot 2" style="width: 20%;"/>
+   <img src="https://github.com/user-attachments/assets/2bd63c07-5beb-4f9d-aca7-bff051a4d082" alt="Screenshot 3" style="width: 20%;"/>
 </div>
 
 ### Profile and Settings
