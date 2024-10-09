@@ -32,8 +32,8 @@ The Fitness Log Application is a mobile app designed to help users track their d
 2. **Login**: Use your email and password to log in. Password recovery options are available.
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/user-attachments/assets/c5c1db48-5700-401f-a54e-caa0b3ebccc3" alt="Sign-Up" style="width: 45%;"/>
-    <img src="https://github.com/user-attachments/assets/cfc8df8e-2803-4c80-acc9-3ff124007184" alt="Login" style="width: 45%;"/>
+    <img src="https://github.com/user-attachments/assets/c5c1db48-5700-401f-a54e-caa0b3ebccc3" alt="Sign-Up" style="width: 20%;"/>
+    <img src="https://github.com/user-attachments/assets/cfc8df8e-2803-4c80-acc9-3ff124007184" alt="Login" style="width: 20%;"/>
 </div>
 
 ### Food Log
